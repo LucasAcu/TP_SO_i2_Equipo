@@ -1,0 +1,7 @@
+Alumnos
+Lucas Acuña
+Martin Ferreira
+Camila Devincenzi
+
+c-directamente no, pero se puede si se actualiza el principal y desde ahi si puede actualizar su fork el gamma al estado del fork del alfa
+d-no se pierden los datos, quedan en los commits anteriores
