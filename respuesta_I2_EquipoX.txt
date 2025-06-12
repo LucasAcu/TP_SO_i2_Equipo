@@ -1,0 +1,22 @@
+e. Lucas Acuña:
+	--git clone <repositorio>
+	-git add
+	-git commit
+	-git push
+	-pull request
+	-git remote add upstream linkdelrepo
+	-git fetch upstream
+	-git checkout main
+	-git merge upstream/main
+Camila Devincenzi y Ferreira Martin
+	git clone https://github.com/camdevincenzi/TP_SO_i2_Equipo9.git
+	nano fork.txt
+	git status
+	git add .
+	git commit -m "subo info a fork.txt"
+	git push
+	*hacemos la pull request*
+	git fetch upstream
+	git checkout main
+	git merge upstream/main
+	git pull upstream main
