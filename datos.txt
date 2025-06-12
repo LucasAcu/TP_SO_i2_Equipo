@@ -1,0 +1,1 @@
+a-lo tengo que hacer con el fetch upstream, git checkout main y merge upstream/main. b-si, puede.
